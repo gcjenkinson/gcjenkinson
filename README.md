@@ -1,3 +1,3 @@
 # gcjenkinson
 
-I am a Software Engineer working for Apple Cloud Services.
+I am a Software Engineer working on commercialisation of CHERI technologies.
